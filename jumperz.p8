@@ -363,13 +363,13 @@ end
 		player.max_dy=1
 		player.max_dx=.5
 		player.acc=0.2
---	else
---		friction=defaults.friction
---		player.boost=defaults.boost
---		gravity=defaults.gravity
---		player.max_dy=defaults.max_dy
---		player.max_dx=defaults.max_dx
---		player.acc=defaults.acc
+	else
+		friction=defaults.friction
+		player.boost=defaults.boost
+		gravity=defaults.gravity
+		player.max_dy=defaults.max_dy
+		player.max_dx=defaults.max_dx
+		player.acc=defaults.acc
 	end
 
 --water physics
