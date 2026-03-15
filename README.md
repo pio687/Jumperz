@@ -38,35 +38,19 @@ This is my second PICO-8 game and I'm still very much learning. Core platformer 
 - Hidden cave accessible by sinking to the bottom of the starting pond
 - Bounce physics for space blocks, clouds, and gold eyed mushrooms
 - Basic sound effects
+- basic wall hanging
+- quest giver/success condition
+- points tally
+- more underground
+- intentional cloud and space mushroom placement
+- 
 
 ### In Development
-- Friends to rescue (collectibles)
-- HUD showing rescue progress
-- Enemies and enemy collision
-- Stomp mechanic
-- Win condition
+- beta testing
 
 ### Next Up
-- More map areas and environments
-- Improved and expanded sprites
-- Sound effects and music
-
-## Post-Vertical Slice Features
-
-### World Expansion
-- Full underground cave network
-- Space zone with unique traversal
-- Secret areas and shortcuts
-
-### Collectibles & Progression
-- Rescue all friends to trigger win condition
-- Collectible tracking via HUD
-- Hidden friends in hard-to-reach zones
-
-### Combat
-- Stomp enemies Mario-style
-
-### Polish
-- Zone-specific music and ambience
-- Particle effects
-- Improved animations
+- Moving platforms
+- refined wall climbing
+- sprites for wall climbing
+- music/ambience
+- title screen?
