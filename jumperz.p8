@@ -926,7 +926,8 @@ end
 
 function goku_chat()
 
- if not noah.win then
+ if not noah.win 
+ and not moses.win then
   dialog("my brothers have",
   "silly problems..")
  elseif noah.win and moses.win
@@ -1092,11 +1093,10 @@ function bugs_update()
   end  
 
  if b.slurped
- and player.yum_t>6 then
+ and player.yum_t>9 then
   b.slurped=false
   b.eaten=true
-  bugs_squished+=1
-  del(bugs,b)
+  bugs_squished+=1 
  end
  end
 end
